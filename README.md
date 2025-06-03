@@ -22,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/adityaraj63/LeetCode/tree/master/0224-basic-calculator) |
+## Array
+|  |
+| ------- |
+| [0941-sort-array-by-parity](https://github.com/adityaraj63/LeetCode/tree/master/0941-sort-array-by-parity) |
+## Two Pointers
+|  |
+| ------- |
+| [0941-sort-array-by-parity](https://github.com/adityaraj63/LeetCode/tree/master/0941-sort-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [0941-sort-array-by-parity](https://github.com/adityaraj63/LeetCode/tree/master/0941-sort-array-by-parity) |
 <!---LeetCode Topics End-->
