@@ -9,4 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/adityaraj63/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0224-basic-calculator](https://github.com/adityaraj63/LeetCode/tree/master/0224-basic-calculator) |
+## Math
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/adityaraj63/LeetCode/tree/master/0224-basic-calculator) |
+## String
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/adityaraj63/LeetCode/tree/master/0224-basic-calculator) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/adityaraj63/LeetCode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
