@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/adityaraj63/LeetCode/tree/master/0224-basic-calculator) |
 | [1610-xor-operation-in-an-array](https://github.com/adityaraj63/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [2083-three-divisors](https://github.com/adityaraj63/LeetCode/tree/master/2083-three-divisors) |
 ## String
 |  |
 | ------- |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/adityaraj63/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/adityaraj63/LeetCode/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/adityaraj63/LeetCode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
