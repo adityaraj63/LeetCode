@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/adityaraj63/LeetCode/tree/master/0224-basic-calculator) |
 | [1610-xor-operation-in-an-array](https://github.com/adityaraj63/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2083-three-divisors](https://github.com/adityaraj63/LeetCode/tree/master/2083-three-divisors) |
+| [2491-smallest-even-multiple](https://github.com/adityaraj63/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## String
 |  |
 | ------- |
@@ -48,4 +49,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/adityaraj63/LeetCode/tree/master/2083-three-divisors) |
+| [2491-smallest-even-multiple](https://github.com/adityaraj63/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
