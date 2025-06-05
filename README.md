@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/adityaraj63/LeetCode/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/adityaraj63/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Array
 |  |
 | ------- |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/adityaraj63/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/adityaraj63/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/adityaraj63/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
