@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/adityaraj63/LeetCode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/adityaraj63/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/adityaraj63/LeetCode/tree/master/2556-convert-the-temperature) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/adityaraj63/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## String
 |  |
 | ------- |
@@ -86,4 +87,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/adityaraj63/LeetCode/tree/master/0292-nim-game) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/adityaraj63/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Simulation
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/adityaraj63/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
