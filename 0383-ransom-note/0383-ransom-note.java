@@ -1,13 +1,14 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-        StringBuilder sb = new StringBuilder(magazine);
+        int [] count = new int [26];
+        for (char c : magazine.toCharArray()) {
+            count[c - 'a']++;
+        }
         for (char c : ransomNote.toCharArray()) {
-            int index = sb.indexOf(String.valueOf(c));
-            if (index == -1) {
+            if (--count[c - 'a'] < 0) {
                 return false;
             }
-            sb.deleteCharAt(index);
         }
-        return true;               
+        return true;     
     }
 }
