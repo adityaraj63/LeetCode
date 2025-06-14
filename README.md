@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/adityaraj63/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/adityaraj63/LeetCode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/adityaraj63/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/adityaraj63/LeetCode/tree/master/0224-basic-calculator) |
 | [0292-nim-game](https://github.com/adityaraj63/LeetCode/tree/master/0292-nim-game) |
 | [1610-xor-operation-in-an-array](https://github.com/adityaraj63/LeetCode/tree/master/1610-xor-operation-in-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/adityaraj63/LeetCode/tree/master/0061-rotate-list) |
+| [0202-happy-number](https://github.com/adityaraj63/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaraj63/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/adityaraj63/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adityaraj63/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/adityaraj63/LeetCode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/adityaraj63/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaraj63/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/adityaraj63/LeetCode/tree/master/0383-ransom-note) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adityaraj63/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
