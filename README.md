@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/adityaraj63/LeetCode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/adityaraj63/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adityaraj63/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/adityaraj63/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Array
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/adityaraj63/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityaraj63/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/adityaraj63/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/adityaraj63/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/adityaraj63/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityaraj63/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/adityaraj63/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/adityaraj63/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
