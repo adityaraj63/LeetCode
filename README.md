@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/adityaraj63/LeetCode/tree/master/0013-roman-to-integer) |
 | [0224-basic-calculator](https://github.com/adityaraj63/LeetCode/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/adityaraj63/LeetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/adityaraj63/LeetCode/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
@@ -60,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/adityaraj63/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/adityaraj63/LeetCode/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/adityaraj63/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adityaraj63/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/adityaraj63/LeetCode/tree/master/0389-find-the-difference) |
 | [1610-xor-operation-in-an-array](https://github.com/adityaraj63/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Enumeration
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/adityaraj63/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaraj63/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/adityaraj63/LeetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/adityaraj63/LeetCode/tree/master/0389-find-the-difference) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adityaraj63/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
