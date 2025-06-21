@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/adityaraj63/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/adityaraj63/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/adityaraj63/LeetCode/tree/master/0055-jump-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityaraj63/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaraj63/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/adityaraj63/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/adityaraj63/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/adityaraj63/LeetCode/tree/master/0055-jump-game) |
 ## Tree
 |  |
 | ------- |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityaraj63/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/adityaraj63/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
