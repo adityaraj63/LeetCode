@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/adityaraj63/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/adityaraj63/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/adityaraj63/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/adityaraj63/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -175,10 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/adityaraj63/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityaraj63/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/adityaraj63/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0783-search-in-a-binary-search-tree](https://github.com/adityaraj63/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityaraj63/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/adityaraj63/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Trie
 |  |
 | ------- |
