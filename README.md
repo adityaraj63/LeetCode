@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/adityaraj63/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/adityaraj63/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/adityaraj63/LeetCode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/adityaraj63/LeetCode/tree/master/0092-reverse-linked-list-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/adityaraj63/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/adityaraj63/LeetCode/tree/master/0061-rotate-list) |
 | [0202-happy-number](https://github.com/adityaraj63/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaraj63/LeetCode/tree/master/0349-intersection-of-two-arrays) |
