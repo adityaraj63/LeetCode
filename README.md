@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/adityaraj63/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/adityaraj63/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/adityaraj63/LeetCode/tree/master/0224-basic-calculator) |
+| [1013-fibonacci-number](https://github.com/adityaraj63/LeetCode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/adityaraj63/LeetCode/tree/master/0224-basic-calculator) |
 | [0292-nim-game](https://github.com/adityaraj63/LeetCode/tree/master/0292-nim-game) |
 | [0728-self-dividing-numbers](https://github.com/adityaraj63/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1013-fibonacci-number](https://github.com/adityaraj63/LeetCode/tree/master/1013-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/adityaraj63/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2083-three-divisors](https://github.com/adityaraj63/LeetCode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/adityaraj63/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/adityaraj63/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/adityaraj63/LeetCode/tree/master/0055-jump-game) |
+| [1013-fibonacci-number](https://github.com/adityaraj63/LeetCode/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -229,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/adityaraj63/LeetCode/tree/master/0658-find-k-closest-elements) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/adityaraj63/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
