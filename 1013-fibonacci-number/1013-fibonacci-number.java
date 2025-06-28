@@ -8,7 +8,7 @@ class Solution {
         return ans;
     }
     public int fib(int n) {
-        int [] dp = new int[n+1]; //INDEX FROM 0-N:
+        int [] dp = new int[n+1]; // MEMOIZATION ARRAY-> INDEX FROM 0-N:
         return fib(n, dp);
     }
 }
