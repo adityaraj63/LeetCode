@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/adityaraj63/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adityaraj63/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/adityaraj63/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/adityaraj63/LeetCode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/adityaraj63/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/adityaraj63/LeetCode/tree/master/0055-jump-game) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/adityaraj63/LeetCode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
