@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/adityaraj63/LeetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/adityaraj63/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/adityaraj63/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/adityaraj63/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/adityaraj63/LeetCode/tree/master/0096-unique-binary-search-trees) |
