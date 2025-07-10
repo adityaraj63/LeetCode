@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaraj63/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityaraj63/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaraj63/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/adityaraj63/LeetCode/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityaraj63/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityaraj63/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0658-find-k-closest-elements](https://github.com/adityaraj63/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaraj63/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaraj63/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/adityaraj63/LeetCode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/adityaraj63/LeetCode/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityaraj63/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0658-find-k-closest-elements](https://github.com/adityaraj63/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/adityaraj63/LeetCode/tree/master/0941-sort-array-by-parity) |
