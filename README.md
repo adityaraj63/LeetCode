@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/adityaraj63/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/adityaraj63/LeetCode/tree/master/1656-count-good-triplets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adityaraj63/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2122-count-special-quadruplets](https://github.com/adityaraj63/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/adityaraj63/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/adityaraj63/LeetCode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/adityaraj63/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/adityaraj63/LeetCode/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/adityaraj63/LeetCode/tree/master/2083-three-divisors) |
+| [2122-count-special-quadruplets](https://github.com/adityaraj63/LeetCode/tree/master/2122-count-special-quadruplets) |
 ## Number Theory
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/adityaraj63/LeetCode/tree/master/0389-find-the-difference) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/adityaraj63/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adityaraj63/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2122-count-special-quadruplets](https://github.com/adityaraj63/LeetCode/tree/master/2122-count-special-quadruplets) |
 ## Binary Search
 |  |
 | ------- |
