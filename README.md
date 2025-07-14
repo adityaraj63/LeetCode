@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/adityaraj63/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/adityaraj63/LeetCode/tree/master/1656-count-good-triplets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adityaraj63/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/adityaraj63/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2122-count-special-quadruplets](https://github.com/adityaraj63/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/adityaraj63/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/adityaraj63/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/adityaraj63/LeetCode/tree/master/0389-find-the-difference) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/adityaraj63/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adityaraj63/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/adityaraj63/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2122-count-special-quadruplets](https://github.com/adityaraj63/LeetCode/tree/master/2122-count-special-quadruplets) |
 ## Binary Search
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/adityaraj63/LeetCode/tree/master/0383-ransom-note) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/adityaraj63/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1848-sum-of-unique-elements](https://github.com/adityaraj63/LeetCode/tree/master/1848-sum-of-unique-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
