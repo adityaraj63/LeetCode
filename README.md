@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/adityaraj63/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adityaraj63/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/adityaraj63/LeetCode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/adityaraj63/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/adityaraj63/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/adityaraj63/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/adityaraj63/LeetCode/tree/master/0202-happy-number) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/adityaraj63/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/adityaraj63/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/adityaraj63/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/adityaraj63/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/adityaraj63/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityaraj63/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/adityaraj63/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/adityaraj63/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/adityaraj63/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/adityaraj63/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
