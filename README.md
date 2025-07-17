@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/adityaraj63/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/adityaraj63/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/adityaraj63/LeetCode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/adityaraj63/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/adityaraj63/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/adityaraj63/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/adityaraj63/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/adityaraj63/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/adityaraj63/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Tree
 |  |
 | ------- |
