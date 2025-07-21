@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/adityaraj63/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/adityaraj63/LeetCode/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/adityaraj63/LeetCode/tree/master/0742-to-lower-case) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/adityaraj63/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/adityaraj63/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
