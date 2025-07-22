@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/adityaraj63/LeetCode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/adityaraj63/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/adityaraj63/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/adityaraj63/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1031-add-to-array-form-of-integer](https://github.com/adityaraj63/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1127-last-stone-weight](https://github.com/adityaraj63/LeetCode/tree/master/1127-last-stone-weight) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/adityaraj63/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityaraj63/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0658-find-k-closest-elements](https://github.com/adityaraj63/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/adityaraj63/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/adityaraj63/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adityaraj63/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/adityaraj63/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Bit Manipulation
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/adityaraj63/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adityaraj63/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/adityaraj63/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Brainteaser
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/adityaraj63/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/adityaraj63/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Counting
 |  |
