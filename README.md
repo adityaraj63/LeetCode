@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/adityaraj63/LeetCode/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityaraj63/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityaraj63/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/adityaraj63/LeetCode/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/adityaraj63/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/adityaraj63/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/adityaraj63/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/adityaraj63/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/adityaraj63/LeetCode/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityaraj63/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/adityaraj63/LeetCode/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/adityaraj63/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/adityaraj63/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/adityaraj63/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/adityaraj63/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/adityaraj63/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityaraj63/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/adityaraj63/LeetCode/tree/master/0561-array-partition) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/adityaraj63/LeetCode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/adityaraj63/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/adityaraj63/LeetCode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
@@ -352,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaraj63/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/adityaraj63/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/adityaraj63/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
