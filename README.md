@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/adityaraj63/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/adityaraj63/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/adityaraj63/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/adityaraj63/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/adityaraj63/LeetCode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/adityaraj63/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/adityaraj63/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/adityaraj63/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/adityaraj63/LeetCode/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityaraj63/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityaraj63/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0728-self-dividing-numbers](https://github.com/adityaraj63/LeetCode/tree/master/0728-self-dividing-numbers) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/adityaraj63/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/adityaraj63/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/adityaraj63/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/adityaraj63/LeetCode/tree/master/0389-find-the-difference) |
 | [1610-xor-operation-in-an-array](https://github.com/adityaraj63/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Enumeration
