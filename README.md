@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/adityaraj63/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/adityaraj63/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/adityaraj63/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/adityaraj63/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/adityaraj63/LeetCode/tree/master/0224-basic-calculator) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/adityaraj63/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adityaraj63/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/adityaraj63/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/adityaraj63/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/adityaraj63/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/adityaraj63/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/adityaraj63/LeetCode/tree/master/0096-unique-binary-search-trees) |
